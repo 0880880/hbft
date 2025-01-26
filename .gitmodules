@@ -1,0 +1,6 @@
+[submodule "jni/harfbuzz"]
+	path = jni/harfbuzz
+	url = https://github.com/harfbuzz/harfbuzz.git
+[submodule "jni/freetype"]
+	path = jni/freetype
+	url = https://github.com/freetype/freetype.git
